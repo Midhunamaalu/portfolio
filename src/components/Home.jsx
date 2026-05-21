@@ -101,7 +101,7 @@ function App() {
             <div className="relative group">
               <div className="absolute -inset-1 bg-gradient-to-r from-sky-500 to-indigo-500 rounded-full blur opacity-20 group-hover:opacity-40 transition duration-500"></div>
               <img
-                src="https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2022-05/Software%20Developer.jpg"
+                src="./image/mm.jpeg"
                 alt="developer"
                 className="relative w-64 h-64 md:w-96 md:h-96 object-cover rounded-full border-4 border-slate-700/50 shadow-2xl transition-transform duration-500 group-hover:scale-[1.02]"
               />
